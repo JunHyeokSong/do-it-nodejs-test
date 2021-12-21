@@ -1,0 +1,23 @@
+{
+  "name": "doit",
+  "version": "1.0.0",
+  "description": "simple doit program that has web UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunHyeokSong/do-it-nodejs-test.git"
+  },
+  "author": "song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunHyeokSong/do-it-nodejs-test/issues"
+  },
+  "homepage": "https://github.com/JunHyeokSong/do-it-nodejs-test#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
